@@ -1,0 +1,9 @@
+# Source documents (not for publishing)
+*.pdf
+jessica_about_context.md
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
